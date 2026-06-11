@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-customer-position
+description: "BIAN Service Domain: Customer Position (Manage pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - manage
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Customer Management"
+  bian/asset-type: "Customer Position"
+  bian/control-record: "Customer Position Management Plan"
